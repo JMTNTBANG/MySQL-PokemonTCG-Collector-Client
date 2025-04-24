@@ -1,0 +1,22 @@
+{
+  "name": "mysql-pokemontcg-collector-client",
+  "version": "0.1.0",
+  "description": "Log your Pokemon TCG Collection with this Downloadable Client, accompanied with the sister Server project",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JMTNTBANG/MySQL-PokemonTCG-Collector-Client.git"
+  },
+  "author": "JMTNTBANG",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/JMTNTBANG/MySQL-PokemonTCG-Collector-Client/issues"
+  },
+  "homepage": "https://github.com/JMTNTBANG/MySQL-PokemonTCG-Collector-Client#readme",
+  "dependencies": {
+    "crypto-js": "^4.2.0"
+  }
+}
